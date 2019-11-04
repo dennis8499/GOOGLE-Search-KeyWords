@@ -1,0 +1,37 @@
+"Index of /admin"
+"Index of /password"
+"Index of /mail"
+"Index of /" +passwd
+"Index of /" +password.txt
+"Index of /" +.htaccess
+index of ftp +.mdb allinurl:/####/ +mailto
+administrators.pwd.index
+authors.pwd.index
+service.pwd.index
+filetype:config web
+gobal.asax index
+allintitle: "index of/admin"
+allintitle: "index of/root"
+allintitle: sensitive filetype:doc
+allintitle: restricted filetype :mail
+allintitle: restricted filetype:doc site:gov
+inurl:passwd filetype:txt
+inurl:admin filetype:db
+inurl:iisadmin
+inurl:"auth_user_file.txt"
+inurl:"wwwroot/*."
+top secret site:mil
+confidential site:mil
+allinurl: winnt/system32/ (get cmd.exe)
+allinurl:/bash_history
+intitle:"Index of" .sh_history
+intitle:"Index of" .bash_history
+intitle:"index of" passwd
+intitle:"index of" people.lst
+intitle:"index of" pwd.db
+intitle:"index of" etc/shadow
+intitle:"index of" spwd
+intitle:"index of" master.passwd
+intitle:"index of" htpasswd
+intitle:"index of" members or accounts
+intitle:"index of" user_carts or user_cart

@@ -1,0 +1,32 @@
+/login.php
+PHP MySQL Login - Tutorialspoint
+https://www.tutorialspoint.com/php/php_mysql_login.htm
+Login System Tutorial with PHP and MYSQL Database - YouTube
+https://www.youtube.com/watch?v=Pz5CbLqdGwM
+How To Create a Login Form - W3Schools
+https://www.w3schools.com/howto/howto_css_login_form.asp
+我要登入 - 巴哈姆特電玩資訊站
+https://user.gamer.com.tw/login.php
+Login | Learn - Lobster Ink
+https://www.lobsterink.com/login.php
+
+/login.asp
+Login ASP.NET Controls - MSDN - Microsoft
+https://msdn.microsoft.com/zh-tw/library/d51ttbhx(v=vs.85).aspx
+Sign in
+https://divegroup.shopmetrics.com/login.asp
+教育部特殊教育通報網登錄帳號密碼 - 特教通報網
+https://www.set.edu.tw/setnet/reg/login.asp
+Login Form With Session & Logout step by step in Asp.net C# - YouTube
+https://www.youtube.com/watch?v=55P5tOc-1LA
+Artsonia :: Login
+https://www.artsonia.com/login.asp
+Players Account Login - GotSoccer
+https://www.gotsport.com/asp/players/login.asp?
+國立高雄大學-網路報名與問卷調查
+https://adm.nuk.edu.tw/signup/login.asp
+TimeStation - Login
+https://www.mytimestation.com/Login.asp
+http://192.168.254.254/login.asp user and passw... | Globe Community
+https://community.globe.com.ph/thread/87417
+
